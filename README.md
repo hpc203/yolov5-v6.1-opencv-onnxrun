@@ -12,3 +12,8 @@ yolov5s6，yolov5m6，yolov5l6，yolov5n6，yolov5x6的十种结构的yolov5-v6.
 
 下载链接：https://pan.baidu.com/s/1pz1A4YOurxL5G0_ITVEerg 
 提取码：zm2q
+
+
+转换生成onnx文件的方法，可以参考我的csdn博客文章
+https://blog.csdn.net/nihate/article/details/112731327
+或者知乎文章 https://zhuanlan.zhihu.com/p/466677699
