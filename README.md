@@ -1,6 +1,6 @@
-# yolov5-6.1-opencv-onnxrun
+# yolov5-v6.1-opencv-onnxrun
 对于https://github.com/ultralytics/yolov5 最近更新的v6.1版本的，我编写了一套
-分别使用OpenCV、ONNXRuntime部署yolov5-6.1目标检测，包含C++和Python两个版本的程序。
+
 使用OpenCV部署yolov5-6.1目标检测，包含C++和Python两个版本的程序
 
 使用ONNXRuntime部署yolov5-6.1目标检测，包含C++和Python两个版本的程序
